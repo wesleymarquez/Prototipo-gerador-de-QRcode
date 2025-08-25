@@ -17,7 +17,13 @@ Este projeto é um protótipo de aplicação web para geração de QR Codes pers
 
 ## 📷 Exemplo de uso
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4a1c92b8-156f-463c-8b2a-988280314218" />
+PASSO 1 
+<img width="978" height="428" alt="1" src="https://github.com/user-attachments/assets/41e15847-98b0-44d7-b697-88622fa5fbf5" />
+
+PASSO 2
+
+<img width="688" height="584" alt="2" src="https://github.com/user-attachments/assets/a77781dc-e310-43be-b949-505843363581" />
+
 
 
 
