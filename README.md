@@ -17,7 +17,9 @@ Este projeto é um protótipo de aplicação web para geração de QR Codes pers
 
 ## 📷 Exemplo de uso
 
-![Exemplo de QR Code](https://via.placeholder.com/200x200.png?text=QR+Code)
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4a1c92b8-156f-463c-8b2a-988280314218" />
+
+
 
 ## 📦 Como usar
 
