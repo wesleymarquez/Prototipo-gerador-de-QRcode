@@ -1,0 +1,44 @@
+📌 COLINHA: COMO SUBIR ARQUIVOS NO GITHUB USANDO VS CODE
+
+1. Abrir o terminal no VS Code
+-------------------------------
+Ctrl + `  (atalho para abrir terminal)
+
+2. Verificar o status do repositório
+------------------------------------
+git status
+
+3. Adicionar os arquivos modificados
+------------------------------------
+git add .              # Adiciona todos os arquivos
+git add nome.ext       # Adiciona arquivo específico
+
+4. Fazer o commit com uma mensagem
+----------------------------------
+git commit -m "Descrição das alterações"
+
+5. Verificar se o remoto está configurado
+-----------------------------------------
+git remote -v          # Mostra os remotos existentes
+
+# Se não estiver configurado, adicionar:
+git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPO.git
+
+6. Enviar os arquivos para o GitHub
+-----------------------------------
+git push -u origin master     # Se estiver usando a branch master
+git push -u origin main       # Se estiver usando a branch main
+
+7. Puxar atualizações do GitHub (opcional)
+------------------------------------------
+git pull origin master        # Atualiza com o que está no GitHub
+git pull origin main          # Se estiver usando a branch main
+
+8. Renomear a branch local (se necessário)
+------------------------------------------
+git branch -m master main     # Renomeia 'master' para 'main'
+
+9. Verificar se tudo foi enviado
+--------------------------------
+Acesse seu repositório no GitHub e veja os arquivos atualizados.
+
